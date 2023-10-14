@@ -1,0 +1,15 @@
+# Arquivos temporários e gerados
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+*.iml
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Cache
+target/
+build/
+.gradle
+out/
